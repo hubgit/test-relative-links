@@ -12,8 +12,4 @@ Mammal adipose tissues require mitochondrial activity for proper development and
 
 ### Figure 3. Mitochondrial DNA and OXPHOS transcript levels in WAT and BAT from Tk2 H126N knockin mice.
 
-<figure>
-
-<figcaption>mtDNA relative abundance, and mtDNA- and nDNA-encoded transcript levels in WAT and BAT from Tk2+/+ and Tk2-/- 13-day-old mice. Bars are means ± SEM data expressed as percentage values relative to wild-type controls (*P<0.05; **P<0.01 for Tk2+/+ vs. Tk2-/-; 7-12 mice/group). ND1, NADH dehydrogenase subunit 1; CYTB, cytochrome b; COI, cytochrome c oxidase subunit 1; Uqcrc1, ubiquinol-cytochrome c reductase core protein 1; Cycs, cytochrome c somatic; Cox4i1, cytochrome c oxidase subunit 4 isoform 1; Atp5g3, ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9), isoform 3.</figcaption>
-
-</figure>
+mtDNA relative abundance, and mtDNA- and nDNA-encoded transcript levels in WAT and BAT from Tk2+/+ and Tk2-/- 13-day-old mice. Bars are means ± SEM data expressed as percentage values relative to wild-type controls (*P<0.05; **P<0.01 for Tk2+/+ vs. Tk2-/-; 7-12 mice/group). ND1, NADH dehydrogenase subunit 1; CYTB, cytochrome b; COI, cytochrome c oxidase subunit 1; Uqcrc1, ubiquinol-cytochrome c reductase core protein 1; Cycs, cytochrome c somatic; Cox4i1, cytochrome c oxidase subunit 4 isoform 1; Atp5g3, ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9), isoform 3.
