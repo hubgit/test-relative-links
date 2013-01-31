@@ -1,6 +1,17 @@
+title: Thymidine Kinase 2 Deficiency-Induced Mitochondrial DNA Depletion Causes Abnormal Development of Adipose Tissues and Adipokine Levels in Mice
+author: Joan Villarroya
+author: Beatriz Dorado
+author: Maya R. Vilà
+author: Elena Garcia-Arumí
+author: Pere Domingo
+author: Marta Giralt
+author: Michio Hirano
+author: Francesc Villarroya
+date: 2011-12-27
+
 # Thymidine Kinase 2 Deficiency-Induced Mitochondrial DNA Depletion Causes Abnormal Development of Adipose Tissues and Adipokine Levels in Mice
 
-Authors: Joan Villarroya, Beatriz Dorado, Maya R. Vilà, Elena Garcia-Arumí, Pere Domingo, Marta Giralt, Michio Hirano, Francesc Villarroya
+Joan Villarroya, Beatriz Dorado, Maya R. Vilà, Elena Garcia-Arumí, Pere Domingo, Marta Giralt, Michio Hirano, Francesc Villarroya
 
 [PLOS ONE](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0029691)
 
